@@ -69,7 +69,7 @@ namespace Neo.Core
 #pragma warning restore CS0612
 
         /// <summary>
-        /// 创世区块
+        /// 创世区块 (Genesis block)
         /// </summary>
         public static readonly Block GenesisBlock = new Block
         {
